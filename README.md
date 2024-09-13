@@ -21,7 +21,10 @@ To bring this analysis to life, we leveraged a powerful suite of tools and techn
 - **Analysis and Visualizations**: Power BI  
 - **Website Development**: .NET Framework  
 - **Single Sign-On (SSO)**: Google OAuth  
-- **Website Hosting**: Azure Web Services  
+- **Website Hosting**: Azure Web Services
+
+  <img width="1245" alt="image" src="https://github.com/user-attachments/assets/056a5b50-f309-462a-8dfc-c6f0ae0ab24a">
+
 
 ## **Conclusion**
 
